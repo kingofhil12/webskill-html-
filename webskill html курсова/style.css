@@ -1,0 +1,75 @@
+body{
+background-image:url(photo/fon.jpeg);
+background-repeat: no-repeat;
+  background-position: center ;
+  background-attachment: fixed;
+color:white;
+
+}
+
+.titl{
+font-family:Monotype Corsiva;	
+
+}
+
+.tit{
+font-family:Lucida Sans Unicode;
+	
+}
+
+.nnset1{
+font-family:Ñomic Sans MS;
+
+}
+
+.sets{
+border: solid white 2px;
+border-radius:20%;
+height:350px;
+width:400px;	
+	padding:5px;
+	margin:15px;
+}
+
+.seti{
+margin:20px;
+padding:10px;	
+color:green;
+background-color:gray;
+}
+
+
+
+a{
+padding: 20px;	
+color:white;
+
+}
+
+a:hover{
+  color:#A95E39;
+  
+}
+
+a:active{
+  color:purple;
+	
+}
+.menu{
+	list-style:none;
+	margin:30px;
+	padding:15px;
+	
+	
+}
+li{
+	display:inline;
+}
+
+
+
+
+
+
+
+
